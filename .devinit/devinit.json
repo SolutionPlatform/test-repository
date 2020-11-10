@@ -1,0 +1,8 @@
+{
+    "run":[
+        {
+          "tool": "require-azurecli",
+          "comments": "Always installs latest of Azure CLI for Windows."
+        }
+    ]
+}
